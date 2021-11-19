@@ -1,0 +1,54 @@
+/*html and body style*/
+/*html{*/
+/*  background-color: hsl(27,72%,72%);*/
+/*}*/
+/*body{*/
+/*  color: rgb(91, 91, 91);*/
+/*  background-color: ivory;*/
+/*}*/
+/*heading styles*/
+/*h1{*/
+/*  color:white;*/
+/*  background-color: rgb(222, 128, 60);*/
+/*}*/
+/**/
+/*h2{*/
+/*  color: white;*/
+/*  background-color: rgb(235, 177, 131);*/
+/*}*/
+
+#About-us > img{
+  float: right;
+  width: 24%;
+  margin-right: 30pt;
+}
+header>#logo{
+  left: 35%;
+  position: relative;
+  margin-top: 10pt;
+  margin-bottom: 10pt;
+}
+body {
+  width: 95%;
+  min-width: 640px;
+  max-width: 1680px;
+  margin:0 auto;
+}
+h1{
+  display: block;
+}
+header>h1{
+  margin-top: 30pt;
+  margin-right: 0;
+  font-size: 90px;
+  width: 50%;
+  color: #ff6f00;
+  font-weight: normal;
+  font-family: serif;
+  line-height: 110px;
+}
+header>#intro{
+  width: 40%;
+  float: right;
+  margin-top: 80px;
+}
